@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.fontCardTituloPrincipal {
+  font-size: 10rem;
+  color: #602c1b;
+}
+.fontCardTitulo {
+  font-size: 5rem;
+  color: #bc2821;
+}
+.fontCardSubTitulo {
+  font-size: 1.5rem;
+  color: #853d01;
+}
+.fontCardPrecio {
+  font-size: 3rem;
+  color: #f1efee;
+}
+@media (max-width: 430px) {
+  .fontCardTituloPrincipal {
+    font-size: 5rem;
+    color: #602c1b;
+  }
+  .fontCardTitulo {
+    font-size: 3rem;
+    color: #bc2821;
+  }
+  .fontCardSubTitulo {
+    font-size: 1rem;
+    color: #853d01;
+  }
+  .fontCardPrecio {
+    font-size: 2rem;
+    color: #f1efee;
+  }
+}
