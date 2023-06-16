@@ -64,8 +64,6 @@ export default {
   .container {
     flex-wrap: wrap;
     height: auto;
-
- 
   }
   .containerImg {
     width: 100%;
